@@ -5,20 +5,17 @@
 ## 💼 About Me
 <img align="right" width="300" height="230" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🚀 1 year of experience as an Associate Full-Stack Developer at GWC Data.ai 
-- 🎓 Engineering graduate from Kongu Engineering College (ECE)  
-- ☕ I love coffee, and you’ll often find me coding with a cup in hand!  
+- 🚀 3.8 YOE 
+- 🎓 Engineering graduate from UIET Kurukshetra University (CSE)
 - 💻 Passionate about building scalable web applications & exploring new technologies  
 - 🌏 Connect with me on:  
   <p>
       <a href="https://www.linkedin.com/in/manisha-saini-a222aa182/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      
-      
-      <a href="https://leetcode.com/u/Saini-Manisha/">
+      </a>     
+      <!-- <a href="https://leetcode.com/u/Saini-Manisha/">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-      </a>
+      </a> -->
   </p>
 
 
@@ -34,11 +31,9 @@
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -52,10 +47,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 ### Protocols & Technologies
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
@@ -100,8 +95,8 @@
 </div>
 
 ---
-<div align="center">
-  <a href="https://u8views.com/github/sathyavardh"><img src="https://u8views.com/api/v1/github/profiles/94102256/views/day-week-month-total-count.svg"></a>
+<!-- <div align="center">
+  <a href="https://u8views.com/github/saini-manisha"><img src="https://u8views.com/api/v1/github/profiles/94102256/views/day-week-month-total-count.svg"></a>
   <br/>
   <em>🚀 Always learning & improving!</em>
-</div>
+</div> -->
